@@ -21,3 +21,5 @@
 - Effectively, this is a licensing change—instead of using a traditional on-premise license, you can start using the same application as a cloud service.
 
 ## Retain
+- "In many cases, during a migration project you can identify applications that are redundant or to be consolidated"
+- Shut the redundant down can represent a cost saving.
