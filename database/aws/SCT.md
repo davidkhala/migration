@@ -1,5 +1,5 @@
 # AWS Schema Conversion Tool (SCT)
-
+> sunset: replace by AWS DMS Schema Conversion
 [doc](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html)
 
 install prompt
